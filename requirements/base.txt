@@ -1,0 +1,4 @@
+django==3.1.2  # pyup: < 3.1  # https://www.djangoproject.com/
+pytz==2020.1  # https://github.com/stub42/pytz
+whitenoise==5.2.0  # https://github.com/evansd/whitenoise
+python-decouple==3.3 # https://github.com/henriquebastos/python-decouple
